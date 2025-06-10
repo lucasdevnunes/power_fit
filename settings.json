@@ -1,0 +1,7 @@
+{
+    "system name": "Power Fit",
+    "logo": "assets/sample_logo.png",
+    "theme": "themes/sample_theme.json",
+    "db_path": "db/studio.db",
+    "debug_mode": "false"
+}
