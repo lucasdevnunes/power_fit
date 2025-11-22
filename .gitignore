@@ -1,0 +1,59 @@
+# ==== PYTHON ====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE configs
+.vscode/
+.idea/
+
+# ==== OS FILES ====
+.DS_Store
+Thumbs.db
+
+# ==== LOGS ====
+*.log
+logs/
+
+# ==== ENVIRONMENT VARIABLES ====
+.env
+*.env
+
+# ==== SQLITE DATABASE ====
+*.db
+*.sqlite3
+
+# If you want to track only the database schema, not the actual DB:
+# !db/schema.sql  
+
+# ==== BACKUPS ====
+*.bak
+*.backup
+*.old
+
+# ==== PYINSTALLER / BUILD ARTIFACTS ====
+build/
+dist/
+*.spec
+
+# ==== TEMP FILES ====
+tmp/
+temp/
+*.tmp
+
+# ==== TESTS ====
+.coverage
+pytest_cache/
+
+# ==== DOCUMENTATION BUILD ====
+/site
+/docs/_build/
+
